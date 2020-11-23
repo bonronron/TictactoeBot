@@ -8,7 +8,7 @@ var waitingqueue = new Map();
 var playerobjmap = new Map();
 var gamemap = new Map();
 
-client.login("Nzc5MjIwNDE4ODc5NTUzNTU2.X7dXkQ.B0GNxMlosGY9llRF6KGnOJpcypo");
+client.login("token here");
 
 client.on("ready",()=>{
     console.log("Ready!");
